@@ -16,4 +16,6 @@ Simple download it to your php server, and run the index.php to see the example 
 
 open the captcha.php, go to line 6 and alter the following code:
 
-```create_image(6);```
+```
+create_image(6);
+```
